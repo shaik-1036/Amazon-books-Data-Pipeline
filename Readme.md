@@ -25,7 +25,7 @@ This project builds an automated data pipeline that collects and processes books
 Clone the project repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/your-username/amazon-books-data-pipeline.git
+git clone https://github.com/shaik-1036/Amazon-books-Data-Pipeline.git
 cd amazon-books-data-pipeline
 ```
 
