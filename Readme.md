@@ -26,7 +26,7 @@ Clone the project repository and navigate to the directory:
 
 ```bash
 git clone https://github.com/shaik-1036/Amazon-books-Data-Pipeline.git
-cd amazon-books-data-pipeline
+
 ```
 
 ### 2. Install Dependencies
