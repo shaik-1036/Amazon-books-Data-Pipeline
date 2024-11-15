@@ -1,6 +1,6 @@
 Here's the complete `README.md` file content with all the provided details:  
 
-```markdown
+
 # Amazon Books Data Pipeline
 
 ## Project Overview
