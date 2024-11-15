@@ -51,7 +51,7 @@ Set up PostgreSQL with the following details:
 - **Username**: `your_username`
 - **Password**: `your_password`
 
-Update the connection settings in the `config.py` file.
+
 
 ### 4. Docker Setup
 
