@@ -11,10 +11,10 @@ This project builds an automated data pipeline that collects and processes books
 
 ## Technologies Used
 
-- **Python**: For web scraping and data cleaning.
-- **Apache Airflow**: For orchestrating the ETL workflow.
-- **Docker Compose**: To containerize the application.
-- **PostgreSQL**: To store the processed data.
+- Python: For web scraping and data cleaning.
+- Apache Airflow: For orchestrating the ETL workflow.
+- Docker Compose: To containerize the application.
+- PostgreSQL: To store the processed data.
 
 ---
 
